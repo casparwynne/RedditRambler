@@ -1,7 +1,7 @@
-## Overview
+# Overview
 The Reddit Rambler is a Python-based GUI application that processes Reddit data from JSON files. It provides features to analyze word frequencies and visualize data through word clouds and heat maps. This application is particularly useful for researchers, data analysts, and developers who want to gain insights from Reddit content.
 
-# Features
+## Features
 i) Word Frequency Analysis: Extracts and counts the frequency of words from Reddit posts and comments.
 ii) Sentiment Analysis: Analyzes the sentiment polarity and subjectivity of comments and posts using TextBlob.
 iii) Data Visualization:
